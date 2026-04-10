@@ -9,7 +9,6 @@ redirects = []
 [build]
 publish = "/workspace/beutler-revamp"
 publishOrigin = "default"
-base = "/workspace/beutler-revamp"
 
 [build.environment]
 
